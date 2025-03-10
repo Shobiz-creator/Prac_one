@@ -49,6 +49,7 @@ public static void main(String[] args) {
 	 staticDropdown();
 	 alert();
 	 action();
+	 System.out.println("There will be blank");
 }
 
 }
